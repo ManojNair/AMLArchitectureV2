@@ -35,8 +35,8 @@ At the same time, the platform must support:
 
 Current key AML platform limits in scope:
 
-- **1,200 compute targets** (clusters, compute instances, managed online endpoints, etc.)
-- **200 batch endpoints**
+- **500 compute targets** (clusters, compute instances, managed online endpoints, etc.)
+- **100 batch endpoints**
 
 The design below is intended to stay operable within those limits while avoiding one-workspace-per-use-case sprawl.
 

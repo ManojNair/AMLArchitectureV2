@@ -24,7 +24,7 @@ This repository is documentation-only. It captures the recommended architecture,
 ## Constraints
 
 - No new subscriptions can be created
-- Must stay within AML platform limits (e.g. 1,200 compute targets, 200 batch endpoints per workspace)
+- Must stay within AML platform limits (e.g. 500 compute targets, 100 batch endpoints per workspace)
 - Must support 3 environments and many domains/use cases without one-workspace-per-use-case sprawl
 
 ## Audience
