@@ -7,7 +7,7 @@ Draft for internal review
 ML Platform Engineers, Cloud Architects, Engineering Managers, FinOps, Security, Operations
 
 ## Purpose
-This document captures the recommended **single-subscription, multi-workspace AML platform design** under the current Coles constraints, and explains how the platform should be governed and operated in practice.
+This document captures the recommended **single-subscription, multi-workspace AML platform design** under the current organizational constraints, and explains how the platform should be governed and operated in practice.
 
 This is **not** the unconstrained strategic best-practice design. It is the **best workable design within the current constraints**.
 
@@ -15,7 +15,7 @@ This is **not** the unconstrained strategic best-practice design. It is the **be
 
 # 1. Context and Constraints
 
-Coles has confirmed the following hard constraint:
+The organization has confirmed the following hard constraint:
 
 - **No new subscriptions can be created**
 - The AML platform must remain within **one Azure subscription**
